@@ -9,6 +9,7 @@ package org.golang.example.bind;
 import android.app.Activity;
 import android.os.Bundle;
 import android.widget.TextView;
+import java.lang.Object;
 
 import hello.Hello;
 
